@@ -120,5 +120,6 @@ public class Main {
         System.out.println("Кристина теперь получает " + kristinaMonthAfter + " рублей. Годовой доход вырос на " + kristinaYearDifference + " рублей.");
 
         System.out.println("Спасибо за проверку!!!");
+
     }
 }
